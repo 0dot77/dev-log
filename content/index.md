@@ -1,6 +1,3 @@
 ---
-title: Welcome to Quartz
+title: Digital Guarden for 0dot77 (유태양)
 ---
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
